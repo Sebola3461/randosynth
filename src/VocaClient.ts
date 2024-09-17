@@ -19,10 +19,10 @@ export class VocaClient {
 
 		this.logger.printSuccess("Logged-in");
 
+		this.logger.printSuccess("We're online!");
+
 		PlaylistService.reloadPlaylist();
 
 		await PostService.initializePostJob();
-
-		this.logger.printSuccess("We're online!");
 	}
 }

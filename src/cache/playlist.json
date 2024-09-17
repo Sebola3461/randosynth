@@ -1,6 +1,8 @@
 {
 	"tags": {
 		"hatsune_miku": "hatsunemiku",
+		"kagamine_rin": "kagaminerin",
+		"flower": "flower",
 
 		"miku_expo_2024": "mikuexpo2024"
 	},
@@ -23,6 +25,111 @@
 				}
 			],
 			"extra_tags": ["miku_expo_2024", "rock", "electronic"]
+		},
+		{
+			"id": "supercell:sekaide",
+			"title": "World is Mine",
+			"title_original": null,
+			"artist": "supercell",
+			"artist_original": "ryo",
+			"time_range": [138, 141],
+			"file_name": "supercell_sekaide.mp4",
+			"file_mime": "video/mp4",
+			"mv_url": "https://www.youtube.com/watch?v=jhl5afLEKdo",
+			"singers": [
+				{
+					"name": "Hatsune Miku",
+					"name_original": "初音ミク",
+					"tag_key": "hatsune_miku"
+				}
+			],
+			"extra_tags": ["Project_DIVA", "rock"]
+		},
+		{
+			"id": "iroha:meltdown",
+			"title": "Meltdown",
+			"title_original": "炉心融解",
+			"artist": "iroha",
+			"artist_original": "sasaki",
+			"time_range": [0, 0],
+			"file_name": "iroha_meltdown.mp4",
+			"file_mime": "video/mp4",
+			"mv_url": "https://www.youtube.com/watch?v=dSw8CucthGc",
+			"singers": [
+				{
+					"name": "Kagamine Rin",
+					"name_original": "鏡音リン",
+					"tag_key": "kagamine_rin"
+				}
+			],
+			"extra_tags": ["Project_DIVA", "j-pop", "kagaminext"]
+		},
+		{
+			"id": "iyowa:mukonoanata",
+			"title": "You are Innocent Monster",
+			"title_original": "無辜のあなた",
+			"artist": "iyowa",
+			"artist_original": "いよわ",
+			"time_range": [0, 0],
+			"file_name": "iyowa_mukonoanata.mp4",
+			"file_mime": "video/mp4",
+			"mv_url": "https://www.youtube.com/watch?v=HPPp1cb5rcc",
+			"singers": [
+				{
+					"name": "Hatsune Miku",
+					"name_original": "初音ミク",
+					"tag_key": "hatsune_miku"
+				},
+				{
+					"name": "flower",
+					"name_original": null,
+					"tag_key": "flower"
+				}
+			],
+			"extra_tags": ["sleeping_pink_noise", "experimental", "j-pop"]
+		},
+		{
+			"id": "mochiutsune:icy",
+			"title": "流行りのアイス",
+			"title_original": null,
+			"artist": "もちうつね",
+			"artist_original": null,
+			"time_range": [138, 141],
+			"file_name": "mochiutsune_icy.mp4",
+			"file_mime": "video/mp4",
+			"mv_url": "https://www.youtube.com/watch?v=9Rdf542nJJ8",
+			"singers": [
+				{
+					"name": "Hatsune Miku",
+					"name_original": "初音ミク",
+					"tag_key": "hatsune_miku"
+				}
+			],
+			"extra_tags": ["j-pop", "electronic"]
+		},
+		{
+			"id": "iyowa:lastjourney",
+			"title": "last journey",
+			"title_original": "ラストジャーニー",
+			"artist": "flower",
+			"artist_original": "いよわ",
+			"time_range": [0, 0],
+			"file_name": "iyowa_lastjourney.mp4",
+			"file_mime": "video/mp4",
+			"mv_url": "https://www.youtube.com/watch?v=y6JY8ZPufb0",
+			"singers": [
+				{
+					"name": "Hatsune Miku",
+					"name_original": "初音ミク",
+					"tag_key": "hatsune_miku"
+				},
+				{
+					"name": "flower",
+					"name_original": null,
+					"tag_key": "flower"
+				}
+			],
+			"extra_tags": ["sleeping_pink_noise", "j-pop", "electronic"]
 		}
 	]
 }
