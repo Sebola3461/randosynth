@@ -77,7 +77,7 @@ export class PostService {
 								singer.tag_key
 							)}`
 					)
-					.join("/ ")
+					.join(" / ")
 			);
 
 			const songExtraData = `${songToPost.extra_tags
