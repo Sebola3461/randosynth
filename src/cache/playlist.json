@@ -1,0 +1,28 @@
+{
+	"tags": {
+		"hatsune_miku": "hatsunemiku",
+
+		"miku_expo_2024": "mikuexpo2024"
+	},
+	"songs": [
+		{
+			"id": "sawtone:mikumikubeam",
+			"title": "M@GICAL☆CURE! LOVE ♥ SHOT!",
+			"title_original": null,
+			"artist": "SAWTONE",
+			"artist_original": null,
+			"time_range": [130.8, 187.8],
+			"file_name": "sawtone_mikumikubeam.mp4",
+			"file_mime": "video/mp4",
+			"mv_url": "https://www.youtube.com/watch?v=b6VhAvtekeU",
+			"singers": [
+				{
+					"name": "Hatsune Miku",
+					"name_original": "初音ミク",
+					"tag_key": "hatsune_miku"
+				}
+			],
+			"extra_tags": ["miku_expo_2024", "rock", "electronic"]
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"dependencies": {
+		"@atproto/api": "^0.13.7",
+		"@atproto/oauth-client-node": "^0.1.1",
+		"colors": "^1.4.0",
+		"dotenv": "^16.4.5",
+		"moment": "^2.30.1"
+	},
+	"scripts": {
+		"dev": "ts-node-dev --transpile-only --respawn --ignore-watch node_modules ./index.ts"
+	},
+	"devDependencies": {
+		"@types/node": "^22.5.5"
+	}
+}
