@@ -2,6 +2,7 @@
 	"tags": {
 		"hatsune_miku": "hatsunemiku",
 		"kagamine_rin": "kagaminerin",
+		"kagamine_len": "kagaminelen",
 		"flower": "flower",
 
 		"miku_expo_2024": "mikuexpo2024"
@@ -130,6 +131,25 @@
 				}
 			],
 			"extra_tags": ["sleeping_pink_noise", "j-pop", "electronic"]
+		},
+		{
+			"id": "kyaami:lostone",
+			"title": "Lost One's Weeping sat1080 Mix",
+			"title_original": null,
+			"artist": "kyaami",
+			"artist_original": null,
+			"time_range": [0, 0],
+			"file_name": "kyaami_lostone.mp4",
+			"file_mime": "video/mp4",
+			"mv_url": "https://www.youtube.com/watch?v=CrmG_R2yxs8",
+			"singers": [
+				{
+					"name": "Kagamine Len",
+					"name_original": "鏡音レン",
+					"tag_key": "kagamine_len"
+				}
+			],
+			"extra_tags": ["remix", "male_vocals", "neru"]
 		}
 	]
 }
