@@ -3,7 +3,15 @@
 		"hatsune_miku": "hatsunemiku",
 		"kagamine_rin": "kagaminerin",
 		"kagamine_len": "kagaminelen",
+		"megurine_luka": "megurineluka",
+
 		"flower": "flower",
+		"gumi": "gumi",
+
+		"kafu_cevio": "kafu_cevio",
+		"kotonoha_aoi": "kotonohaaoi",
+		"kotonoha_akane": "kotonohaakane",
+		"utane_uta": "utaneuta",
 
 		"miku_expo_2024": "mikuexpo2024"
 	},
@@ -133,23 +141,110 @@
 			"extra_tags": ["sleeping_pink_noise", "j-pop", "electronic"]
 		},
 		{
-			"id": "kyaami:lostone",
-			"title": "Lost One's Weeping sat1080 Mix",
-			"title_original": null,
-			"artist": "kyaami",
-			"artist_original": null,
+			"id": "iyowa:pajami",
+			"title": "Pajamy",
+			"title_original": "パジャミィ",
+			"artist": "iyowa",
+			"artist_original": "いよわ",
 			"time_range": [0, 0],
-			"file_name": "kyaami_lostone.mp4",
+			"file_name": "iyowa_pajami.mp4",
 			"file_mime": "video/mp4",
-			"mv_url": "https://www.youtube.com/watch?v=CrmG_R2yxs8",
+			"mv_url": "https://youtu.be/aBZqxfnvaVA",
 			"singers": [
 				{
-					"name": "Kagamine Len",
-					"name_original": "鏡音レン",
-					"tag_key": "kagamine_len"
+					"name": "Hatsune Miku",
+					"name_original": "初音ミク",
+					"tag_key": "hatsune_miku"
 				}
 			],
-			"extra_tags": ["remix", "male_vocals", "neru"]
+			"extra_tags": ["j-pop"]
+		},
+		{
+			"id": "iyowa:predation",
+			"title": "Predation And Non Predation",
+			"title_original": "捕食ひ捕食",
+			"artist": "iyowa",
+			"artist_original": "いよわ",
+			"time_range": [0, 0],
+			"file_name": "iyowa_predation.mp4",
+			"file_mime": "video/mp4",
+			"mv_url": "https://youtu.be/wa9WvwmTXfU",
+			"singers": [
+				{
+					"name": "Hatsune Miku",
+					"name_original": "初音ミク",
+					"tag_key": "hatsune_miku"
+				},
+				{
+					"name": "GUMI",
+					"name_original": "グミ",
+					"tag_key": "gumi"
+				}
+			],
+			"extra_tags": ["j-pop", "unreleased"]
+		},
+		{
+			"id": "owatap:rinchannow",
+			"title": "Rin-chan NOW!",
+			"title_original": "リンちゃんなう！",
+			"artist": "Garuna(OwataP)",
+			"artist_original": "ガルナ(オワタP)",
+			"time_range": [0, 0],
+			"file_name": "owatap_rinchanow.mp4",
+			"file_mime": "video/mp4",
+			"mv_url": "https://youtu.be/_oS2aIhE2_U",
+			"singers": [
+				{
+					"name": "Hatsune Miku",
+					"name_original": "初音ミク",
+					"tag_key": "hatsune_miku"
+				},
+				{
+					"name": "Kagamine Rin",
+					"name_original": "鏡音リン",
+					"tag_key": "kagamine_rin"
+				},
+				{
+					"name": "Megurine Luka",
+					"name_original": "巡音ルカ",
+					"tag_key": "megurine_luka"
+				}
+			],
+			"extra_tags": ["Project_DIVA", "megumiku"]
+		},
+		{
+			"id": "denkiqujira:nemurimo",
+			"title": "Nemuri mo",
+			"title_original": "ねむりも",
+			"artist": "電ǂ鯨",
+			"artist_original": "DenkiQujira",
+			"time_range": [0, 0],
+			"file_name": "denkiqujira_nemurimo.mp4",
+			"file_mime": "video/mp4",
+			"mv_url": "https://www.youtube.com/watch?v=1eE9iCHcORg",
+			"singers": [
+				{
+					"name": "KAFU (Cevio)",
+					"name_original": "可不",
+					"tag_key": "kafu_cevio"
+				},
+				{
+					"name": "Utane Uta",
+					"name_original": "唄音ウタ",
+					"tag_key": "utane_uta"
+				},
+				{
+					"name": "Kotonoha Aoi",
+					"name_original": "琴葉葵",
+					"tag_key": "kotonoha_aoi"
+				},
+				{
+					"name": "Kotonoha Akane",
+					"name_original": "琴葉茜",
+					"tag_key": "kotonoha_akane"
+				}
+			],
+			"extra_tags": ["Circus_Night_Lasts"]
 		}
 	]
 }
