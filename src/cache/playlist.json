@@ -98,6 +98,25 @@
 			"extra_tags": ["sleeping_pink_noise", "experimental", "j-pop"]
 		},
 		{
+			"id": "mikitop:39music",
+			"title": "39 Music!",
+			"title_original": "39みゅーじっく！",
+			"artist": "MikitoP",
+			"artist_original": "みきとP",
+			"time_range": [0, 0],
+			"file_name": "mikitop_39music.mp4",
+			"file_mime": "video/mp4",
+			"mv_url": "https://www.youtube.com/watch?v=OuLZlZ18APQ",
+			"singers": [
+				{
+					"name": "Hatsune Miku",
+					"name_original": "初音ミク",
+					"tag_key": "hatsune_miku"
+				}
+			],
+			"extra_tags": ["magical_mirai", "magical_mirai_2016"]
+		},
+		{
 			"id": "mochiutsune:icy",
 			"title": "流行りのアイス",
 			"title_original": null,
